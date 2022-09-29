@@ -8,7 +8,7 @@ body {
 }
 
 .article {
-    width: 60%;
+    width: 55%;
     height: 40%;
     
 
@@ -22,6 +22,8 @@ h1 {
     width: 365px;
     height: 93px;
     margin: 91px 0 0 124px;
+    font-family: 'Roboto Slab';
+
 
 
 
@@ -31,23 +33,52 @@ p {
   font-size: 20px;
   padding: 0 0 0 124px;
   width: 70%;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
   
   
   
 }
  .photo1 {
-    padding: 0 100px 0 0;
+    padding: 0 200px 0 0;
     width: 314px;
 height: 315px;
+
  }
 
 
 
 .vniz {
     display: flex;
-    justify-content: space-between;
+    
 
 }
 .photo2 {
-  padding: 0 0 0 124px;
+  padding: 50px 0 0 124px;
+  
+
+}
+
+.zaq1 {
+    padding: 25px 0 0 130px;
+    
+    
+}
+.zaq2 {
+    padding: 25px 0 0 130px;
+}
+.zaq3 {
+    padding: 25px 0 0 130px;
+}
+.one {
+    padding: 60px 10px 0 0;
+}
+.two {
+    padding: 60px 10px 0 0 ;
+}
+.three {
+    padding: 60px 10px 0 0;
 }
