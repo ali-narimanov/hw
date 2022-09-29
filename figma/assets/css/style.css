@@ -8,7 +8,7 @@ body {
 }
 
 .article {
-    width: 40%;
+    width: 60%;
     height: 40%;
     
 
@@ -18,7 +18,11 @@ h1 {
     font-size: 55px;
     font-weight: 700;
     font-style: normal;
-    padding: 91px 0 0 124px;
+    
+    width: 365px;
+    height: 93px;
+    margin: 91px 0 0 124px;
+
 
 
 
@@ -28,11 +32,19 @@ p {
   padding: 0 0 0 124px;
   
 }
+ .photo1 {
+    padding: 0 100px 0 0;
+    width: 314px;
+height: 315px;
+ }
+
+
+
 .vniz {
     display: flex;
     justify-content: space-between;
 
 }
 .photo2 {
-  padding: 0 0 0 124p;
+  padding: 0 0 0 124px;
 }
